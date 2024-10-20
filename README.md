@@ -1,1 +1,3 @@
-# 공룡 게임
+# Bounce Game
+
+Lead The World C project 초기 버전
